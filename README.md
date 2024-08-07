@@ -24,8 +24,14 @@ The game starts with a score of 100 points. For each incorrect guess, the score 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Feedback
+Feel free to share any feedback or suggestions regarding this project. If yoy notice any mistakes or areas for improvement, please let me know.
+Your input is greatly appreciated!
+
 ## Author
 Pooja Dharshini.P
+For any questions or feedback, you can reach me at [poojadharshiii@gmail.com] or connect with me on LinkedIn at [https://www.linkedin.com/in/pooja-dharshini-8ab5ba320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app].
 
 
-Feel free to replace "Your Name" with your actual name and make any additional adjustments you like! Let me know if you need more help.
+
+
